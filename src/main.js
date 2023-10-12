@@ -13,8 +13,7 @@ import  {
 
     session.applyLens(lenses[0])
     let mediaStream= await navigator.mediaDevices.getUserMedia({
-        // video:true
-        facingMode: 'environment'
+        video: { facingMode: 'environment' }
     
     });
 
