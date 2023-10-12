@@ -1,2 +1,1 @@
-# CameraKitTestSkeleton
- 
+# camera_kit_demo
